@@ -1,0 +1,5 @@
+
+requests
+pandas
+
+#(These libraries will help with data fetching and analysis)
